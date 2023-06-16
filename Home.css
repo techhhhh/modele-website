@@ -1,0 +1,11 @@
+#header {
+    height: 300px;
+    width: auto;
+    background: url(https://images.unsplash.com/photo-1506795660198-e95c77602129?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80);
+    text-align: center;
+    padding-top: 130px;
+    background-size: cover;
+    background-attachment: fixed;
+    color: antiquewhite;
+    margin-bottom: 20px;
+}
